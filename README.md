@@ -3,8 +3,8 @@
 Hello! \
 This was a project experimenting with multi-threading to resolve domain names for various websites.
 
-An example input would be a list of domain names, separated by a new line: \
-google.com \
+An example input would be a list of domain names, separated by a new line:\
+google.com\
 apple.com \
 instagram.com \
 ... \
