@@ -1,5 +1,3 @@
-# Makefile v1 for CSCI3753-S23 PA3
-
 # Add any additional source files you'd like to submit by appending
 # .c filenames to the MSRCS line and .h filenames to the MHDRS line
 MSRCS = multi-lookup.c
