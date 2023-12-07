@@ -1,15 +1,9 @@
 /*
  * File: util.c
  * Author: Andy Sayler
- * Modified: Shiv Mishra
- * Project: CSCI 3753 Programming Assignment 5
  * Create Date: 2012/02/01
  * Modify Date: 2012/02/01
  * Modify Date: 2016/09/26
- * Description:
- * 	This file contains declarations of utility functions for
- *      Programming Assignment 5.
- *  
  */
 
 #include "util.h"
